@@ -1,7 +1,5 @@
 Cara simpan perubahan di lokal & Push ke Github
 - git status
 - git add <nama file>
-- git status
 - git commit -m "keterangan"
-- git status
 - git push origin master
