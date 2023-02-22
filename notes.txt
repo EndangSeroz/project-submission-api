@@ -1,3 +1,12 @@
+Menginisialisasi local repository
+- git init
+- buat file .gitignore isi :
+    node_modules
+    notes-api-webserver.pem
+- git add .
+- git commit -m "initial commit"
+
+
 Cara simpan perubahan di lokal & Push ke Github
 - git status
 - git add <nama file>
